@@ -1,1 +1,1 @@
-web: gunicorn joydance.wsgi
+web: gunicorn joydance.wsgi:application
